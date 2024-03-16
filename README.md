@@ -13,6 +13,9 @@
     >> Windows Installer
     >> Linux 64 Bit Binary
 
+https://turbobert.de/mirror/pub/xdcx.dmg
+https://turbobert.de/mirror/pub/xdcx-setup.exe.zip
+
 # Why why why
 
 I like things begin efficient. Don't ask.

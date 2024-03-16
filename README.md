@@ -1,19 +1,4 @@
-    > Why why why
-    >> What it does
-    >> Learning
-    >>> Youtube
-    > License
-    > Sources
-    > Contribute and Support
-    > Troubleshooting
-    >> MacOS refuses to run the binary / complains about corruption
-    > Binaries
-    >> MacOS
-    >> Windows Portable
-    >> Windows Installer
-    >> Linux 64 Bit Binary
-
-[xdcx.dmg](https://turbobert.de/mirror/pub/xdcx.dmg) | [xdcx-setup.exe.zip](https://turbobert.de/mirror/pub/xdcx-setup.exe.zip)
+Quick Links: [xdcx.dmg](https://turbobert.de/mirror/pub/xdcx.dmg) | [xdcx-setup.exe.zip](https://turbobert.de/mirror/pub/xdcx-setup.exe.zip)
 
 # Why why why
 

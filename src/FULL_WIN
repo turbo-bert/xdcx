@@ -1,0 +1,23 @@
+#!/bin/bash
+
+
+
+T=$(date +%s)
+
+( bash win-run-00-clean-lz.sh )
+( bash win-run-01-upload-lz.sh )
+( bash win-run-02-lazbuild-lz.sh )
+( bash win-run-03-download-exe-lz.sh )
+
+TX=$(date +%s)
+
+((TD=TX-T))
+
+
+( cd build && unzip xdcx_portable.zip && scp xdcx.exe lz:~/. && rm -f xdcx.exe )
+( cd build && scp xdcx-setup.exe lz:~/. )
+
+echo ""
+echo "DURATION: $TD seconds"
+echo ""
+sleep 3

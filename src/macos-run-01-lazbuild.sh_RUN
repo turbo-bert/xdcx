@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+#( cd build/macos/xdcx && open xdcx.app )
+( cd build && open xdcx.dmg )

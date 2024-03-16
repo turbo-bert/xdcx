@@ -1,0 +1,19 @@
+object FormSettingsWin: TFormSettingsWin
+  Left = 251
+  Height = 506
+  Top = 209
+  Width = 736
+  Caption = 'FormSettingsWin'
+  ClientHeight = 506
+  ClientWidth = 736
+  LCLVersion = '3.2.0.0'
+  object ButtonSave: TButton
+    Left = 608
+    Height = 25
+    Top = 464
+    Width = 99
+    Caption = 'ButtonSave'
+    TabOrder = 0
+    OnClick = ButtonSaveClick
+  end
+end

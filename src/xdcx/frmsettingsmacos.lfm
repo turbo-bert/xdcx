@@ -1,0 +1,8 @@
+object FormSettingsMacos: TFormSettingsMacos
+  Left = 957
+  Height = 240
+  Top = 636
+  Width = 320
+  Caption = 'FormSettingsMacos'
+  LCLVersion = '3.2.0.0'
+end

@@ -1,0 +1,18 @@
+#!/bin/bash
+
+
+
+T=$(date +%s)
+
+( bash linux-docker-run-00-clean.sh )
+( bash linux-docker-run-01-lazbuild.sh )
+( bash linux-docker-run-02-copy-binary.sh )
+
+TX=$(date +%s)
+
+((TD=TX-T))
+
+echo ""
+echo "DURATION: $TD seconds"
+echo ""
+sleep 3

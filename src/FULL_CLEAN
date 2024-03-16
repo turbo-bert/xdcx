@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+( cd xdcx && rm -fr backup )
+( cd xdcx && rm -fr lib )
+( cd xdcx && rm -f xdcx )
+
+( cd .. && gfind . -name .DS_Store -print0 | gxargs -r0n1 rm -f )

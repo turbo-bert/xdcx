@@ -1,0 +1,19 @@
+#!/bin/bash
+
+
+
+T=$(date +%s)
+
+( bash macos-run-00-clean.sh )
+( bash macos-run-01-lazbuild.sh )
+( bash macos-run-02-package-zip.sh )
+( bash macos-run-03-package-dmg.sh )
+
+TX=$(date +%s)
+
+((TD=TX-T))
+
+echo ""
+echo "DURATION: $TD seconds"
+echo ""
+sleep 3

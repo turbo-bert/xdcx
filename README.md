@@ -1,4 +1,4 @@
-Quick Links: [xdcx.dmg](https://turbobert.de/mirror/pub/xdcx.dmg) | [xdcx-setup.exe.zip](https://turbobert.de/mirror/pub/xdcx-setup.exe.zip)
+Quick Links: [MacOS-Apple-Silicon DMG](https://turbobert.de/mirror/pub/xdcx.dmg), [Windows-Setup-ZIPPED](https://turbobert.de/mirror/pub/xdcx-setup.exe.zip)
 
 # Why why why
 

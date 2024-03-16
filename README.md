@@ -73,7 +73,7 @@ See https://turbobert.de/mirror/pub/xdcx.dmg for MacOS installer-like image.
 
 And compare with:
 
-    54d61936a365ecde3f88b010a8a23708b7c9c64b2debd6ebe80fd1d8f4e1023a *xdcx.dmg
+    b100cb05bedd179358bc3129f98637355172949253d112ac6a797622680852aa *xdcx.dmg
 
 You can also verify the dmg's (and even the binary's own) code signature:
 
@@ -95,7 +95,7 @@ See https://turbobert.de/mirror/pub/xdcx_portable.zip for Windows 10+ unsigned p
 
 And compare with:
 
-    528311C49A59D91A8EDECA34F780D5CAD2B1CE7A5760245F1BAA26617937EEE5
+    D9718B54BE07BFEDC2257F773E1999F29CE5A47114268D0F6A65EB3240D352C3
 
 
 ## Windows Installer
@@ -106,7 +106,7 @@ See https://turbobert.de/mirror/pub/xdcx-setup.exe.zip for Windows 10+ installer
 
 And compare with:
 
-    099E70197AF675F7ADC28AEA19854E5608E65372E9E816549852492214B14010
+    0B8A17E962FBA1AC87079DD5DD16071FA29D11075A2424E5B96F64D6B97DA867
 
 ## Linux 64 Bit Binary
 
@@ -116,7 +116,7 @@ See https://turbobert.de/mirror/pub/xdcx.xz for MacOS unsigned installer-like im
 
 And compare with:
 
-    
+    4d6f89ff5e471be1c65f293687ef65ac3f99c89da39c9b7f54d3aadb6f812f12 *xdcx.xz
 
 
 
